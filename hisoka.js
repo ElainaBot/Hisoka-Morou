@@ -2919,6 +2919,7 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}listgc
 │⭔ ${prefix}listonline
 │⭔ ${prefix}speedtest
+│⭔ ${prefix}gamestore
 │
 └───────⭓
 
